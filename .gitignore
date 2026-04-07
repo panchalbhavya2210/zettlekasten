@@ -1,0 +1,17 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Obsidian local config (device-specific)
+.obsidian/workspace.json
+.obsidian/cache/
+.obsidian/workspace
+.obsidian/plugins/
+
+# Optional: ignore all settings (if you want clean vault sync)
+# .obsidian/
+
+# Logs
+*.log
+
+Archive X/
